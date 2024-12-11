@@ -1,4 +1,4 @@
-# web-yt
+# web-project
 
 ## Project setup
 ```
